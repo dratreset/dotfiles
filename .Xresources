@@ -1,0 +1,39 @@
+! black
+URxvt*color0  : #2E3436
+URxvt*color8  : #555753
+
+! red
+URxvt*color1  : #FF0000
+URxvt*color9  : #ed5050
+
+! green
+URxvt*color2  : #4E9A06
+URxvt*color10 : #1eb700
+
+! yellow
+URxvt*color11 : #FCE94F
+
+! magenta
+URxvt*color5  : #75507B
+URxvt*color13 : #AD7FA8
+
+! cyan / blue
+URxvt*color6  : #23c6a6
+URxvt*color4  : #23c6a6
+URxvt*color12 : #06989a
+
+! white
+URxvt*color7  : #D3D7CF
+URxvt*color15 : #EEEEEC
+
+! orange
+URxvt*color14 : #c18400
+URxvt*color3  : #C4A000
+
+URxvt.transparent: 	True
+URxvt.shading:		20
+URxvt*background: 	#11073d
+URxvt*foreground:	white
+URxvt.scrollBar: 	black
+URxvt*scrollBar: 	False
+URxvt.font:		-misc-fixed-medium-r-normal--14-*-*-*-*-*-jisx0201.1976-0
