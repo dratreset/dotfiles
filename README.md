@@ -1,2 +1,2 @@
 # dotfiles
-Terminal and wm config files.
+Filthy terminal and wm config files.
