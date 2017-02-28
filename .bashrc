@@ -16,7 +16,9 @@ alias cl='clear && source ~/.bashrc && lll'
 
 ### Prompt
 
-PS1='<< \[$(tput bold)\]\[$(tput setaf 4)\]\u\[$(tput sgr0)\]@\[$(tput bold)$(tput setaf 0)\]\h $(pwd)\[$(tput sgr0)\] >> '
+PS1='<< \[$(tput bold)\]\[$(tput setaf 4)\]\u\[$(tput sgr0)\]@\[$(tput bold)$(tput setaf 6)\]\t \[$(tput setaf 0)\]$(pwd)\[$(tput sgr0)\] >> '
 
+#EDITOR=nano
+#export $EDITOR
 
 archey3 --color=cyan
